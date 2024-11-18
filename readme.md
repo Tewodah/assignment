@@ -11,4 +11,7 @@ Creating branches
  command: git branch crazy-experiment (branch name) 
  The repository history remains unchanged. 
  All you get is a new pointer to the current commit:
- or on vs code terminal(...) > new terminal > 
+ or on vs view terminal or terminal(...) > new terminal > 
+ 
+ With the open terminal, type the command git branch name_of_the_branch.
+To enter this new branch, you can also type git checkout name_of_the_branch.
