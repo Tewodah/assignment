@@ -1,1 +1,27 @@
-install c++ following steps below
+c++ commands
+working with strings changing a plain text
+
+string characterName = "jhon";
+intl characterAge;
+characterAge = 50;
+
+with this two we can make changes of the entire text
+cout << "there once was a name named" << charcterName <<  endl;
+
+characterName = "jhon"; to make changes in the middle 
+
+character
+char grade = "A";
+string phrase = "giraffe Acadamy";
+int age = 50;
+double gpa = 2.3; for decial numbers
+bool ismMale = false; for true or false value 
+example cout << grade << endl; will print a
+
+
+WORKING WITH numbers
+string phase = "Giraffe Acadamy";
+cout << phase.length(); counts individual charachters
+ cout << phase[2]; prints r  shows index position
+ cout << phase.find("Acadamy,0"); shows which index character it starts
+  
